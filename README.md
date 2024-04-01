@@ -12,10 +12,6 @@ Proficient in Python, Go, and Shell scripting.
 Deep understanding of network protocols, firewalls, and VPN technologies.
 Skilled in penetration testing, vulnerability assessments, and forensic analysis.
 
-## 🎓 Education & Certifications
-
-I am working on a Bachelor’s in Computer Science, specialized in Information Security.
-
 ## 💡 Passion Projects
 Volunteer mentor for aspiring cybersecurity professionals.
 
