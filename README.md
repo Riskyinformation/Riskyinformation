@@ -4,7 +4,7 @@ Hello there! I am a dedicated and passionate Security Engineer with a knack for 
 
 ## 🌐 Professional Journey
 
-Regular contributor to open-source security projects, focusing on innovative encryption algorithms and ethical hacking tools.
+Regular contributor to open-source security projects, focusing on building automated scripting and scanning platforms.
 
 ## 🛠 Technical Toolkit
 
@@ -14,9 +14,7 @@ Skilled in penetration testing, vulnerability assessments, and forensic analysis
 
 ## 🎓 Education & Certifications
 
-Bachelor’s in Computer Science, specialized in Information Security.
-Certified Information Systems Security Professional (CISSP).
-Offensive Security Certified Professional (OSCP).
+I am working on a Bachelor’s in Computer Science, specialized in Information Security.
 
 ## 💡 Passion Projects
 Volunteer mentor for aspiring cybersecurity professionals.
